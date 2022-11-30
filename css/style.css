@@ -6,9 +6,6 @@ html {
     background-size: cover;
     background-color: #F0E6DA;
   }
-.content {
-    color: none;
-}
   .logo {
     text-align: center;
     padding-top: 50px;
@@ -72,5 +69,12 @@ li {
   }
 .logo img {
     max-width: 300px;
+}
+.stores img {
+    max-width: 120px;
+}
+li {
+    margin: none;
+    text-align: center;
 }
 }
