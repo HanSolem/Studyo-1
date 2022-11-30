@@ -1,8 +1,5 @@
 html { 
     background: url(/Images/StudioImage.png) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: cover;
     background-color: #F0E6DA;
   }
