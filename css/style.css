@@ -14,6 +14,7 @@ html {
     padding-top: 50px;
     align-items: center;
     margin: auto;
+    width: 450px;
   }
   .header {
     font-family: cardo, serif;
@@ -57,4 +58,14 @@ li {
 }
 .stores {
     background-color: #313131;
+}
+
+@media only screen and (max-width: 450px) {
+.logo {
+    text-align: center;
+    padding-top: 50px;
+    align-items: center;
+    margin: auto;
+    width: 300px;
+  }
 }
